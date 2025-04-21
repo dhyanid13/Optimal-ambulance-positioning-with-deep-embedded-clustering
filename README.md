@@ -23,3 +23,6 @@ This project presents a deep learning-based framework for identifying **optimal 
 - **Evaluation Metrics**: Silhouette Score, Calinski-Harabasz Index, Davies-Bouldin Index, and a novel distance-based metric
 
 ---
+
+This project is based on my published research. 📄 [Read the full paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10147832).
+ 
